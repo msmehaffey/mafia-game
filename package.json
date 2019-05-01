@@ -6,6 +6,7 @@
     "cardsJS": "^1.1.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
+    "react-playing-card": "^0.2.5",
     "react-scripts": "3.0.0"
   },
   "scripts": {

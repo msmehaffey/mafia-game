@@ -23,6 +23,19 @@
   color: #61dafb;
 }
 
+#allDeck {
+  font-size: 70px;
+}
+.cards {
+  display: inline-block;
+}
+.red {
+  color: red;
+}
+.black {
+  color: black;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
